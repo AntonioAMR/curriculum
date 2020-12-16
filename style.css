@@ -13,6 +13,11 @@ html, body{
 
 /* arquivo de estilo css */
 /* cabeçalho */
+.head{
+    width: 100%;
+    height: 30px;
+    background-color: #00E0FF;
+}
 .container{
     width: 90%;
     max-width: 2024px;
