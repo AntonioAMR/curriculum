@@ -1,5 +1,6 @@
 @import "https://github.com/AntonioAMR/curriculum/blob/main/home.css";
 @import "https://github.com/AntonioAMR/curriculum/blob/main/responsive.css";
+@import "./assets/css/responsive.css";
 
 * {
     margin: 0;
